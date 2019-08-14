@@ -1,6 +1,4 @@
 build/
 node_modules/
 npm-debug.log
-lib/
-esm/
 yarn-error.log
