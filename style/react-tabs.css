@@ -8,14 +8,15 @@
 }
 
 .react-tabs__tab {
-  font-size: 1em;
-  font-weight: 500;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  font-weight: 600;
   display: inline-block;
   border-bottom: 2px solid transparent;
   bottom: -1px;
   position: relative;
   list-style: none;
-  padding: 6px 12px;
+  padding: 6px 23px;
   cursor: pointer;
 }
 
@@ -23,8 +24,8 @@
   background: #fff;
   border-color: #00bbbb;
   color: #00bbbb;
-  font-size: 1.3em;
-  font-weight: 800;
+  font-size: 1.5em;
+  font-weight: 700;
 }
 
 .react-tabs__tab--disabled {
